@@ -10,7 +10,7 @@
   <img align="center" alt="Miliotte-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Miliotte-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Miliotte-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Miliotte-PowerBI" height="30" width="30" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
+  <img align="center" alt="Miliotte-PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
 
 </div>
   
